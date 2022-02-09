@@ -48,7 +48,7 @@
     "react-helmet": "^6.1.0",
     "react-icons": "^4.2.0",
     "react-instantsearch-dom": "^6.10.3",
-    "sass": "^1.32.8",
+    "sass": "^1.49.0",
     "styled-components": "^5.2.1",
     "styled-icons": "^10.31.0",
     "tocbot": "^4.16.0"
